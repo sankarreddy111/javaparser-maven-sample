@@ -20,7 +20,7 @@ You can now run the sample from the command line with
 `java -jar target/javaparser-maven-sample-1.0-SNAPSHOT-shaded.jar`.
 This runs the sample program, LogicPositivizer, which reads, parses, and modifies the code in resources/Blabla.java and then writes the modified file with the same name to the output folder.
 
-To better understand this sample, you can read [JavaParser: Visited.](https://leanpub.com/javaparservisited) In this book, key contributors to the JavaParser library teach you how you can use JavaParser to programmatically analyse, transform and generate your java code base.
+To better understand this sample, you can read [JavaParser: Visited.](https://leanpub.com/javaparservisited) In this book, key contributors to the JavaParser library teach you how you can use JavaParser to programmatically analyse, transform and generate your java code base.................................
 
 How you run this code is up to you, but usually you would start by using an IDE like [NetBeans](https://netbeans.org/), [Intellij IDEA](https://www.jetbrains.com/idea/), or [Eclipse](https://eclipse.org/ide/).
 
